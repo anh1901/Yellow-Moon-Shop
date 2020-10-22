@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/dtos/LogDTO.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/daos/ProductDAO.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/web/admin/search.jsp</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/web/track.jsp</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/servlets/customer/ChangeQuantityServlet.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/dtos/OrderDTO.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/servlets/admin/CreateCakeServlet.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/servlets/customer/YellowMoonShopServlet.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/dtos/UserDTO.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/web/productdetail.jsp</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/dtos/CategoryDTO.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/servlets/customer/OrderDetailServlet.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/web/cart.jsp</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/daos/UserDAO.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/servlets/customer/CheckOutServlet.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/servlets/admin/LogServlet.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/web/admin/detail.jsp</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/daos/OrderDAO.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/servlets/customer/RemoveProductServlet.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/utils/GoogleUtils.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/web/yellowmoonshop.jsp</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/servlets/customer/SearchOrderServlet.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/web/orderdetail.jsp</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/dtos/ProductDTO.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/web/receipt.jsp</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/web/checkout.jsp</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/web/admin/create.jsp</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/daos/CategoryDAO.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/servlets/admin/UpdateServlet.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/servlets/customer/LoginGoogleServlet.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/dtos/GoogleUserDTO.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/servlets/customer/LoginServlet.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/filters/FilterDispatcher.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/filters/AdminFilter.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/src/java/anh/YellowMoon/cart/CartObj.java</file>
+            <file>file:/D:/J3.L.P0011.-Yellow-Moon-Shop/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
